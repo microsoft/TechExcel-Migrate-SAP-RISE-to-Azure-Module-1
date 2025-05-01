@@ -1,10 +1,10 @@
 title: TechExcel Migrate SAP RISE to Azure
-description: In this course, participants will learn to.
+description: In this course, you will learn to configure a Copilot agent to answer natural language prompts based on an SAP data source.
 theme: just-the-docs
 
 aux_links:
   "Win the Database platform":
-    - "https://github.com/microsoft/TechExcel-Migrate-SAP-RISE-to-Azure/"
+    - "https://github.com/microsoft/TechExcel-Migrate-SAP-RISE-to-Azure/".
 
 callouts_level: quiet # or loud
 callouts:
