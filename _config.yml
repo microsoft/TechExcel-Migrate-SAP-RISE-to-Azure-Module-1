@@ -3,7 +3,7 @@ description: In this course, you will learn to configure a Copilot agent to answ
 theme: just-the-docs
 
 aux_links:
-  "Win the Database platform":
+  "Migrate SAP RISE to Azure":
     - "https://github.com/microsoft/TechExcel-Migrate-SAP-RISE-to-Azure/"
 
 callouts_level: quiet # or loud
