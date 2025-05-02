@@ -8,7 +8,7 @@ nav_order: 1
 
 ## Architecture
 
-!IMAGE[vqqvwh7n.jpg](instructions290420/vqqvwh7n.jpg)
+![vqqvwh7n.jpg](/media/vqqvwh7n.jpg)
 
 SAP provides the Gateway Demo system so that users can experiment and interact with SAP data. For this lab, you'll connect to the SAP Gateway Demo system by using the GWSAMPLE_BASIC OData service. The service includes a simple data model with entities like Products, Sales Orders, and Business Partners. 
 
