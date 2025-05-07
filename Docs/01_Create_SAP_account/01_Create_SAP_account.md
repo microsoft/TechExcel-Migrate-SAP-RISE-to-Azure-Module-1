@@ -5,7 +5,9 @@ nav_order: 2
 has_children: true
 ---
 
-# Exercise 01: Create an SAP account and configure SAP resources
+# Module 01: Setup Agentic AI on SAP on Azure 
+
+## Exercise 01: Create an SAP account and configure SAP resources
 
 ## Scenario
 In this exercise, you'll create an SAP account. You'll also create an account so that you can access the SAP Gateway Demo system. The Gateway Demo system serves as the SAP data source for this lab. 
